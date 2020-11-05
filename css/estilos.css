@@ -6,6 +6,7 @@ body
     font-size: 16px;
     margin: 0;
     padding: 0;
+    background-color: #333;
 }
 
 #cabecera
@@ -37,6 +38,7 @@ body
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
+    background-color: white;
 }
 
 #container h1
